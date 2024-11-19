@@ -1,0 +1,7 @@
+selenium
+GmailBox
+pytz
+pyvirtualdisplay
+sqlalchemy
+psycopg2-binary
+pandas
